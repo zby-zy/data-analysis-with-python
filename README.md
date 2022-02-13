@@ -2,8 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/85934122/153773992-f7416003-721b-4bc1-b857-5eb596b2daa5.png" width="500">
 Data analysis is a process of inspecting, cleansing, transforming, and modelling data with the goal of discovering useful information, informing conclusions, and supporting decision-making. Data analysis has multiple facets and approaches, encompassing diverse techniques under a variety of names, and is used in different business, science, and social science domains. In today's business world, data analysis plays a role in making decisions more scientific and helping businesses operate more effectively.
-<a href="https://en.wikipedia.org/wiki/Data_analysis" target="_blank">See more...<br>
-
+<a href="https://en.wikipedia.org/wiki/Data_analysis" target="_blank"></a>See more...<br>
 
 ## Syllabus
 
