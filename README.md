@@ -18,6 +18,4 @@ Data analysis is a process of inspecting, cleansing, transforming, and modelling
 
 
 ## Resources
-
-IBM Cognitive Class Data Analysis with Python Course: https://cognitiveclass.ai/courses/data-analysis-python<br>
 Wikipedia: https://en.wikipedia.org/wiki/Data_analysis 
